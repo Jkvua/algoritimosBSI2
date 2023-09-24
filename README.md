@@ -1,3 +1,3 @@
-# desafio_2sem
+# algoritimos II
 
 Algoritimos e Programação II
